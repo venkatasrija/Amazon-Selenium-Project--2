@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T11:04:53 IST" name="Default suite" finished-at="2024-09-13T11:06:08 IST" duration-ms="74600">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T11:04:53 IST" name="Default test" finished-at="2024-09-13T11:06:08 IST" duration-ms="74600">
+      <class name="com.amazon.testcases.OverallAmazonTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.testcases.OverallAmazonTestCases@74ea2410]" started-at="2024-09-13T11:04:48 IST" name="setup" finished-at="2024-09-13T11:04:53 IST" duration-ms="4728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SignInPageTitle()[pri:1, instance:com.amazon.testcases.OverallAmazonTestCases@74ea2410]" started-at="2024-09-13T11:04:53 IST" name="SignInPageTitle" finished-at="2024-09-13T11:04:56 IST" duration-ms="3278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInPageTitle -->
+        <test-method signature="changeLanguageTest()[pri:2, instance:com.amazon.testcases.OverallAmazonTestCases@74ea2410]" started-at="2024-09-13T11:04:56 IST" name="changeLanguageTest" finished-at="2024-09-13T11:05:06 IST" duration-ms="9368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeLanguageTest -->
+        <test-method signature="SignInTest()[pri:3, instance:com.amazon.testcases.OverallAmazonTestCases@74ea2410]" started-at="2024-09-13T11:05:06 IST" name="SignInTest" finished-at="2024-09-13T11:05:18 IST" duration-ms="12462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInTest -->
+        <test-method signature="changeLanguageEnglishTest()[pri:4, instance:com.amazon.testcases.OverallAmazonTestCases@74ea2410]" started-at="2024-09-13T11:05:18 IST" name="changeLanguageEnglishTest" finished-at="2024-09-13T11:05:28 IST" duration-ms="10012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeLanguageEnglishTest -->
+        <test-method signature="SearchBarTest()[pri:5, instance:com.amazon.testcases.OverallAmazonTestCases@74ea2410]" started-at="2024-09-13T11:05:28 IST" name="SearchBarTest" finished-at="2024-09-13T11:05:37 IST" duration-ms="9039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBarTest -->
+        <test-method signature="SelectProductTest()[pri:6, instance:com.amazon.testcases.OverallAmazonTestCases@74ea2410]" started-at="2024-09-13T11:05:37 IST" name="SelectProductTest" finished-at="2024-09-13T11:05:43 IST" duration-ms="5834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectProductTest -->
+        <test-method signature="AddToCartTest()[pri:7, instance:com.amazon.testcases.OverallAmazonTestCases@74ea2410]" started-at="2024-09-13T11:05:43 IST" name="AddToCartTest" finished-at="2024-09-13T11:05:49 IST" duration-ms="6066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCartTest -->
+        <test-method signature="ProceedToBuyTest()[pri:8, instance:com.amazon.testcases.OverallAmazonTestCases@74ea2410]" started-at="2024-09-13T11:05:49 IST" name="ProceedToBuyTest" finished-at="2024-09-13T11:06:07 IST" duration-ms="18468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProceedToBuyTest -->
+      </class> <!-- com.amazon.testcases.OverallAmazonTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
